@@ -1,2 +1,2 @@
-# Bartok-base
-Gibson's Prospector Solitaire (Gliozzi build)
+# Bartok final version.
+So many bugs.. but fixed and finalized.
